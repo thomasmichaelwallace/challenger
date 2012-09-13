@@ -20,6 +20,6 @@ This has been tested on LUSAS 14.5, 14.6 and 14.7.
 Author and Licence
 ==================
 
-Challenger is primiarly written by Thomas Michael Wallace (www.thomasmichaelwallce.co.uk), and released under the GPL v3 licence.
+Challenger is primiarly written by Thomas Michael Wallace (www.thomasmichaelwallace.co.uk), and released under the GPL v3 licence.
 
 Please forgive the lack of documentation while I complete the move to GitHub - thanks.

@@ -62,7 +62,7 @@ BAR_LENGTH = 10
 
 print(
 """Challenger - Copyright (C) 2011 thomas michael wallace
-This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions."""
     )

@@ -177,7 +177,7 @@ def ui_draw(text):
 
     print("- Summary -----------------------------------------------------")
     print(" - LUSAS Keys - Modeller: %s, Solver: %s" % (LSM_KEYID, LSS_KEYID))
-    print(" - %s of %s modeellers in use." % (lsmon.used_licences, lsmon.max_licences))
+    print(" - %s of %s modellers in use." % (lsmon.used_licences, lsmon.max_licences))
     print(" - %s of %s solvers in use." % (lsmon.used_solver, lsmon.max_solver))
     print(" - Current LUSAS users : ")
 

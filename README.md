@@ -7,7 +7,7 @@ Check out http://www.beingbrunel.com/lusas-licence-challenger/ for more informat
 Installing
 ----------
 
-Challenger is a python script and therefore needs a python environment to run. As LUSAS is a Windows program, I would reccomend investigating (PortablePython 3.2)[http://www.portablepython.com/ "Portable Python"].
+Challenger is a python script and therefore needs a python environment to run. As LUSAS is a Windows program, I would reccomend investigating [PortablePython 3.2](http://www.portablepython.com/ "Portable Python").
 
 Once installed Challenger can be run using __python challenger.exe__.
 

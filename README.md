@@ -7,7 +7,7 @@ Check out http://www.beingbrunel.com/lusas-licence-challenger/ for more informat
 Installing
 ----------
 
-You can find a pre-built version of Challenger in the Releases section on [GitHub](https://github.com/thomasmichaelwallace/challenger/releases/download/v2.8/challenger-2-8.zip). Download, un-zip, configure (see next section) and run challenger.exe.
+You can find a pre-built version of Challenger in the Releases section on [GitHub](https://github.com/thomasmichaelwallace/challenger/releases/download/v2.8/challenger-v2-8.zip). Download, un-zip, configure (see next section) and run challenger.exe.
 
 Note that you may need to download the Visual C++ 2010 re-distributable to use this pre-build version, you can find that on the [Microsoft Website](http://www.microsoft.com/en-gb/download/details.aspx?id=5555)
 

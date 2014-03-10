@@ -11,7 +11,7 @@ You can find a pre-built version of Challenger in the Releases section on [GitHu
 
 Note that you may need to download the Visual C++ 2010 re-distributable to use this pre-build version, you can find that on the [Microsoft Website](http://www.microsoft.com/en-gb/download/details.aspx?id=5555)
 
-If you wish to build it; Challenger is a python script and therefore needs a python environment to run. As LUSAS is a Windows program, I would recommend investigating [PortablePython 3.2](http://www.portablepython.com/ "Portable Python"). Once installed Challenger can be run using __python challenger.exe__.
+If you wish to build it; Challenger is a python script and therefore needs a python environment to run. As LUSAS is a Windows program, I would recommend investigating [PortablePython](http://www.portablepython.com/ "Portable Python"). Once installed Challenger can be run using __python challenger.exe__.
 
 Configuration
 -------------
